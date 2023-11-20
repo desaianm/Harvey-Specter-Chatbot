@@ -47,7 +47,6 @@ Create a virtual environment (optional but recommended):
 
 ## API Key
 Add your own OpenAi Api key in apikey file
-# apikey.py
 key = "your_openai_api_key_here"
 
 ## Usage
