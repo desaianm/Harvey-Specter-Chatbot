@@ -42,7 +42,6 @@ This chatbot is built using the LangChain library, which leverages the OpenAI GP
 ## Install the required dependencies:
 
 pip install -r requirements.txt
-Create a virtual environment (optional but recommended):
 
 
 ## API Key
